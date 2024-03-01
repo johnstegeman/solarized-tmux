@@ -39,6 +39,7 @@
 - 🪴 [Frappé](./catppuccin-frappe.tmuxtheme)
 - 🌺 [Macchiato](./catppuccin-macchiato.tmuxtheme)
 - 🌿 [Mocha](./catppuccin-mocha.tmuxtheme)
+- 🥷 [Osaka](./catppuccin-osaka.tmuxtheme)
 
 ## Installation
 
